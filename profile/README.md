@@ -7,7 +7,8 @@
 
 This is an organization dedicated to storing all of the softare used and/or modified for the sake of this research paper:
 
-> Experimental Evaluation of a Semi-Autonomous Rover Enhancing Care Efficiency in Nursing Homes Amid Workforce Shortages
+> OpenPanahon: Experimental Evaluation of a Portable LoRaWAN Mesh
+  for Urban Weather Monitoring and AQI Gaps
 
 - [About](#about)
 - [People Involved](#people-involved)
@@ -17,8 +18,7 @@ This is an organization dedicated to storing all of the softare used and/or modi
 ## About
 
 The research is conducted by 8 Grade 12 students from the Cebu Institute of Technology-University Senior High School. This
-research involves the experimental design and testing of such semi-autonomous system in a nursing home setting. The researchers
-will utilize technologies such as the Raspberry Pi 4B to power all the systems
+research involves the experimental design and deployment of portable, low-cost, and low-maintenance weather station nodes.
 
 ## People Involved
 
