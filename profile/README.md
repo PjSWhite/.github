@@ -37,5 +37,4 @@ Below are the people involved on this project
 
 ### Research Consultants
 
-> [!NOTE]
-> As of now, no research consultants were confirmed to join in writing
+- Engr. Charlie B Arong, ECE consultant 
